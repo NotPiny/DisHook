@@ -1,0 +1,27 @@
+{
+  "name": "@npiny/dishook",
+  "version": "0.1.0",
+  "description": "Enables simple webhook actions in a way similar to discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotPiny/DisHook.git"
+  },
+  "keywords": [
+    "discord",
+    "webhooks",
+    "wrapper"
+  ],
+  "author": "Piny",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/NotPiny/DisHook/issues"
+  },
+  "homepage": "https://github.com/NotPiny/DisHook#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
